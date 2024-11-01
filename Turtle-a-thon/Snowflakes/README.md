@@ -26,3 +26,7 @@ Where Are Koch Curves Used?
 
 
 ![Python 3 11 29-10-2024 13_39_14](https://github.com/user-attachments/assets/2dc22340-6617-47c9-be1d-e58d06dce813)
+
+
+
+
